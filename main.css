@@ -1,0 +1,50 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+	height: 80;
+}
+Header h2{
+	font-size: 170%;
+	color: #800000;
+	margin: 30px;
+}
+
+header h3{
+	font-size: 130%;
+	font-style: italic;
+	margin: 30px;
+}
+
+/* the styles for the section */
+main {
+	clear: left;
+}
+
+/* the styles for the footer */
+/*C:\Users\Vedanshi\Desktop\BIS\2021\Fall 2021\IS 117\MurachV04_StudentFiles\exercises\town_hall_1\images\town_hall_logo.gif
+ */
+
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main h1 {
+	font-size: 150%;
+}
+main h2 {
+	color: #800000;
+	font-size: 130%;
+}
+main h3 {
+	font-size: 105%;
+}
+footer {
+	display: flex;
+	align-items: center;
+}
